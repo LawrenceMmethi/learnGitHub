@@ -1,2 +1,2 @@
 # learnGitHub
-testrepo
+learningGit
